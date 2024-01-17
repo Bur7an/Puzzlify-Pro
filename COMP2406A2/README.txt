@@ -1,4 +1,4 @@
-# Name: Muhammed Burhan 101270831
+# Name: Muhammed Burhan
 
 ## Install Instructions
 No external npm modules are required for this project.
